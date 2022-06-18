@@ -1,0 +1,7 @@
+              IIC Library Management System  
+     Borrowed By: Rahul Shiwa
+     Borrowed Date: 2021-09-10    Time:14:59:57.842718
+
+S.N. 	 Bookname 				      Authorname 
+01. 		Principles  		  Ray Dalio
+2. 		Principles		  Ray Dalio

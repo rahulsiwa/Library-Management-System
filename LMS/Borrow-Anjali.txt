@@ -1,0 +1,6 @@
+              IIC Library Management System  
+     Borrowed By: Anjali Chhetri
+     Borrowed Date: 2021-09-10    Time:15:27:46.056442
+
+S.N. 	 Bookname 				      Authorname 
+01. 		The 7 Habits of Highly Effective People  		  Stephen Covey

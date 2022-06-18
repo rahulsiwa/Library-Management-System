@@ -1,0 +1,6 @@
+              IIC Library Management System  
+     Borrowed By: Sunny Koirala
+     Borrowed Date: 2021-09-10    Time:15:37:29.520924
+
+S.N. 	 Bookname 				      Authorname 
+01. 		Programming With Python  		  John Smith

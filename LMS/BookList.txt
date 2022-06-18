@@ -1,0 +1,29 @@
+Programming With Python,John Smith,24,$1.5
+The 48 Laws of Power,Robert Greene,38,$13.89
+The Four Agreements,Don Miguel Ruiz,28,$4.99
+Atomic Habits,James Clear,33,$11.98
+The 5 AM Club,Robin Sharma,45,$9.70
+The Power of Now,Eckhart Tolle,12,$1.72
+The Alchemist,Paulo Coelho,34,$2.83
+HTML and CSS QuickStart Guide,David DuRocher,90,$21
+Computer Networking,Russell Scott,55,$18
+The Total Money Makeover,Dave and Thomas Nelson,12,$19.33
+Extreme Ownership,Jocko Willink,15,$7.49
+Principles,Ray Dalio,2,$18.32
+The 7 Habits of Highly Effective People,Stephen Covey,38,$12
+The Invisible Life of Addie,V.E. Schwab,6,$16
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins,9,$11.01
+Python Crash Course 2nd Edition,Eric Mattes,32,$21
+The Bitcoin Standard,Saifedean Ammouns,7,$15.90
+Crucial Conversations,Kerry Patterson,13,$13.74
+Becoming,Michelle Obama,19,$19.23
+The 4-Hour Workweek,Timothy Ferriss,28,$23.07
+The Intelligent Investor,Benjamin Graham,6,$42.20
+Rich Dad Poor Dad,Robert Kiyosaki,10,$14.99
+The One Thing,Gary Keller,8,$35
+Can't Hurt Me,David Goggins,14,$24.09
+Letting Go,Philip Roth,23,$2.33
+Fear of Flying,Erica Jong,12,$4
+When Breath Becomes Air,Paul Kalanithi,31,$1.87
+In the Heart of the Sea,Nathaniel Philbrick,18,$33
+Pride and Prejudice,Jane Austen,20,$0.99
